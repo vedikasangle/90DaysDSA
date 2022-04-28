@@ -1,5 +1,8 @@
 #include <iostream>
 using namespace std;
+
+//largest element efficient approach 
+
 int getlargest(int arr[], int n)
 {
     int res = 0;
