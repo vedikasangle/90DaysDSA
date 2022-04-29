@@ -1,6 +1,8 @@
 #include <iostream>
 using namespace std;
 
+//array1.cpp
+
 //linear search 
 int search(int arr[], int n, int x)
 {
